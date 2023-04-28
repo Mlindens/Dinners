@@ -1,0 +1,103 @@
+{
+  "recipeBook": {
+    "title": "Pork recipes.",
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Grilled Kielbasa",
+        "ingredients": [
+          { "name": "whole chicken", "quantity": "1 (3-4 lbs)" },
+          { "name": "lemons", "quantity": "2" },
+          { "name": "garlic", "quantity": "6 cloves" },
+          { "name": "fresh rosemary", "quantity": "3 sprigs" },
+          { "name": "olive oil", "quantity": "2 tbsp" },
+          { "name": "salt", "quantity": "to taste" },
+          { "name": "pepper", "quantity": "to taste" }
+        ],
+        "instructions": [
+          "Preheat oven to 425°F (220°C).",
+          "Rinse and pat dry the chicken.",
+          "Rub the chicken with olive oil, salt, and pepper.",
+          "Place half a lemon and three garlic cloves inside the chicken cavity.",
+          "Place chicken in a roasting pan.",
+          "Slice the remaining lemon and arrange around the chicken with the remaining garlic cloves and rosemary sprigs.",
+          "Roast for 1 hour and 30 minutes or until internal temperature reaches 165°F (74°C).",
+          "Allow chicken to rest for 10 minutes before carving.",
+          "Serve with pan juices."
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Zuppa Toscana",
+        "ingredients": [
+          { "name": "romaine lettuce", "quantity": "1 head" },
+          { "name": "croutons", "quantity": "1 cup" },
+          { "name": "parmesan cheese", "quantity": "1/2 cup" },
+          { "name": "caesar dressing", "quantity": "1/2 cup" },
+          { "name": "anchovy fillets (optional)", "quantity": "4-6" }
+        ],
+        "instructions": [
+          "Wash and dry lettuce, tear into bite-sized pieces.",
+          "In a large salad bowl, toss lettuce with caesar dressing.",
+          "Add croutons and parmesan cheese, toss to combine.",
+          "Top with anchovy fillets if desired.",
+          "Serve immediately."
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Tortellini Soup",
+        "ingredients": [
+          { "name": "romaine lettuce", "quantity": "1 head" },
+          { "name": "croutons", "quantity": "1 cup" },
+          { "name": "parmesan cheese", "quantity": "1/2 cup" },
+          { "name": "caesar dressing", "quantity": "1/2 cup" },
+          { "name": "anchovy fillets (optional)", "quantity": "4-6" }
+        ],
+        "instructions": [
+          "Wash and dry lettuce, tear into bite-sized pieces.",
+          "In a large salad bowl, toss lettuce with caesar dressing.",
+          "Add croutons and parmesan cheese, toss to combine.",
+          "Top with anchovy fillets if desired.",
+          "Serve immediately."
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Little ear pasta with Italian sausage",
+        "ingredients": [
+          { "name": "romaine lettuce", "quantity": "1 head" },
+          { "name": "croutons", "quantity": "1 cup" },
+          { "name": "parmesan cheese", "quantity": "1/2 cup" },
+          { "name": "caesar dressing", "quantity": "1/2 cup" },
+          { "name": "anchovy fillets (optional)", "quantity": "4-6" }
+        ],
+        "instructions": [
+          "Wash and dry lettuce, tear into bite-sized pieces.",
+          "In a large salad bowl, toss lettuce with caesar dressing.",
+          "Add croutons and parmesan cheese, toss to combine.",
+          "Top with anchovy fillets if desired.",
+          "Serve immediately."
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Pork chops",
+        "ingredients": [
+          { "name": "romaine lettuce", "quantity": "1 head" },
+          { "name": "croutons", "quantity": "1 cup" },
+          { "name": "parmesan cheese", "quantity": "1/2 cup" },
+          { "name": "caesar dressing", "quantity": "1/2 cup" },
+          { "name": "anchovy fillets (optional)", "quantity": "4-6" }
+        ],
+        "instructions": [
+          "Wash and dry lettuce, tear into bite-sized pieces.",
+          "In a large salad bowl, toss lettuce with caesar dressing.",
+          "Add croutons and parmesan cheese, toss to combine.",
+          "Top with anchovy fillets if desired.",
+          "Serve immediately."
+        ]
+      }
+    ]
+  }
+}

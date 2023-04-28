@@ -1,4 +1,3 @@
-import random
 from dinner import Dinner
 
 dinner = Dinner()

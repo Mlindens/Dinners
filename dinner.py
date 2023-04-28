@@ -1,29 +1,32 @@
 import random
+import json
 
 
 class Dinner:
     def __init__(self):
         self.protein = {
-            "1.": "chicken.txt",
-            "2.": "beef.txt",
-            "3.": "fish.txt",
-            "4.": "turkey.txt",
+            "1": "chicken.json",
+            "2": "beef.json",
+            "3": "fish.json",
+            "4": "pork.json",
         }
 
-    def display_menu(self):
+    @staticmethod
+    def display_menu():
         print("Welcome to Whats for dinner!")
         print("Choose your protein")
         print("1. Chicken")
         print("2. Beef")
-        print("3. Turkey")
-        print("4. Steak")
-        print("5. Fish")
+        print("3. Fish")
+        print("4. Pork")
 
-    def read_file(self, filename):
+    @staticmethod
+    def read_file(filename):
         with open(filename) as f:
-            words = f.readlines()
-            words = [word.split() for word in words]
-            return random.choice(words)
+            recipe_book = json.load(f)
+            recipes = recipe_book["recipeBook"]["recipes"]
+            random_recipe = random.choice(recipes)
+            return random_recipe["name"]
 
     def choose_protein(self):
         choice = input("Choose your protein: ")
