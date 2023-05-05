@@ -6,41 +6,59 @@
         "id": 1,
         "name": "Miso Salmon",
         "ingredients": [
-          { "name": "whole chicken", "quantity": "1 (3-4 lbs)" },
-          { "name": "lemons", "quantity": "2" },
-          { "name": "garlic", "quantity": "6 cloves" },
-          { "name": "fresh rosemary", "quantity": "3 sprigs" },
-          { "name": "olive oil", "quantity": "2 tbsp" },
-          { "name": "salt", "quantity": "to taste" },
+          { "name": "serves", "quantity": "4" },
+          { "name": " skin-on salmon fillets", "quantity": "4 (6-ounce)" },
+          { "name": "honey or pure maple syrup", "quantity": "1 tbsp" },
+          { "name": "white or brown miso", "quantity": "1 tbsp" },
+          { "name": "rice vinegar", "quantity": "1 tbsp" },
+          { "name": "soy sauce", "quantity": "1 tbsp" },
+          { "name": "minced ginger", "quantity": "1 tbsp" },
+          { "name": "red pepper flake", "quantity": "1/4 tsp" },
+          { "name": "minced ginger", "quantity": "1 tbsp" },
           { "name": "pepper", "quantity": "to taste" }
         ],
         "instructions": [
-          "Preheat oven to 425°F (220°C).",
-          "Rinse and pat dry the chicken.",
-          "Rub the chicken with olive oil, salt, and pepper.",
-          "Place half a lemon and three garlic cloves inside the chicken cavity.",
-          "Place chicken in a roasting pan.",
-          "Slice the remaining lemon and arrange around the chicken with the remaining garlic cloves and rosemary sprigs.",
-          "Roast for 1 hour and 30 minutes or until internal temperature reaches 165°F (74°C).",
-          "Allow chicken to rest for 10 minutes before carving.",
-          "Serve with pan juices."
+          "Prep: 5min | Cook: 15min | Total: 35min",
+          "Preheat the oven to 400F. Line a 9x13-inch casserole dish with parchment paper or foil.",
+          "Pat the salmon fillets dry, then place in the dish skin-side down.",
+          "In a small bowl, whisk together the maple syrup, miso, vinegar, soy sauce, ginger, and red pepper flakes.",
+          "Spoon or carefully pour half of the mixture on top of the salmon, brushing to evenly coat the tops.",
+          "Let sit at room temperature for at least 15 minutes, or marinate for up to 12 hours (if refrigerating,",
+          "let the salmon stand at room temperature for 15 minutes prior to cooking).",
+          "Bake the miso salmon for 7 minutes. Remove from the oven, and brush with the remaining marinade.",
+          "Return the pan to the oven and continue cooking for 6 to 8 minutes more, or until the salmon is opaque and",
+          "cooked through, and the fish registers 140F on an instant read thermometer (fish is considered cooked",
+          "at 145F, but its temperature will rise as it rests; do not overcook or the fish will be dry).",
+          "Let the salmon rest for 5 minutes, then serve warm with a sprinkle of chopped green onion or cilantro,",
+          "sesame seeds, and rice as desired."
         ]
       },
       {
         "id": 2,
         "name": "Teriyaki Salmon",
         "ingredients": [
-          { "name": "romaine lettuce", "quantity": "1 head" },
-          { "name": "croutons", "quantity": "1 cup" },
-          { "name": "parmesan cheese", "quantity": "1/2 cup" },
-          { "name": "caesar dressing", "quantity": "1/2 cup" },
-          { "name": "anchovy fillets (optional)", "quantity": "4-6" }
+          { "name": "salmon filet sliced into 2inch wide slices", "quantity": "2 1/2 lbs" },
+          { "name": "teriyaki sauce", "quantity": "3 tbsp" },
+          { "name": "hoisin sauce", "quantity": "3 tbsp" },
+          { "name": "soy sauce", "quantity": "3 tbsp" },
+          { "name": "white vinegar", "quantity": "1 tbsp" },
+          { "name": "sesame oil", "quantity": "1 tbsp" },
+          { "name": "light brown sugar", "quantity": "1/3 cup" },
+          { "name": "garlic cloves", "quantity": "3 medium" },
+          { "name": "fresh ginger", "quantity": "2 tsp" }
         ],
         "instructions": [
-          "Wash and dry lettuce, tear into bite-sized pieces.",
-          "In a large salad bowl, toss lettuce with caesar dressing.",
-          "Add croutons and parmesan cheese, toss to combine.",
-          "Top with anchovy fillets if desired.",
+          "Prep: 25min | Cook: 15min | Total: 40min",
+          "Grease a large rimmed baking sheet (cover with foil and then grease for easier clean-up). Preheat oven to 400F.",
+          "Combine sauce ingredients and stir until brown sugar is dissolved.",
+          "Place individual salmon slices in a mixing bowl. Pour the sauce over the salmon,",
+          "cover with plastic wrap and let marinate 20 minutes (at room temp or refrigerated).",
+          "Transfer salmon to prepared baking sheet (keep the marinade).",
+          "Bake at 400F for 12-16 min or until salmon is flaky and cooked through,",
+          "bake times may vary by thickness of salmon.",
+          "While salmon is baking, transfer remaining marinade to a small sauce pan and bring to a boil then reduce heat",
+          "to a simmer and cook stirring occasionally until slightly thickened (3-4 min) then remove from heat.",
+          "Once salmon is out of the oven, brush with teriyaki syrup, then sprinkle with chopped green onion and",
           "Serve immediately."
         ]
       },
@@ -48,18 +66,21 @@
         "id": 3,
         "name": "Cajun Shrimp",
         "ingredients": [
-          { "name": "romaine lettuce", "quantity": "1 head" },
-          { "name": "croutons", "quantity": "1 cup" },
-          { "name": "parmesan cheese", "quantity": "1/2 cup" },
-          { "name": "caesar dressing", "quantity": "1/2 cup" },
-          { "name": "anchovy fillets (optional)", "quantity": "4-6" }
+          { "name": "uncooked shrimp, peeled and deveined", "quantity": "1 lbs" },
+          { "name": "dried thyme", "quantity": "1 tsp" },
+          { "name": "salt", "quantity": "1/4 tsp" },
+          { "name": "garlic powder", "quantity": "1/4 tsp" },
+          { "name": "onion powder", "quantity": "1/4 tsp" },
+          { "name": "cayenne pepper", "quantity": "1/8 to 1/4 tsp depending on spice level" },
+          { "name": "smoked paprika", "quantity": "2 tsp" },
+          { "name": "olive oil", "quantity": "1 tbsp" }
         ],
         "instructions": [
-          "Wash and dry lettuce, tear into bite-sized pieces.",
-          "In a large salad bowl, toss lettuce with caesar dressing.",
-          "Add croutons and parmesan cheese, toss to combine.",
-          "Top with anchovy fillets if desired.",
-          "Serve immediately."
+          "Prep: 5min | Cook: 10min | Total: 15min",
+          "Add smoked paprika, thyme, salt, garlic powder, onion powder, cayenne pepper and oil to a large skillet.",
+          "Heat over medium-low heat, stirring constantly, for 30 seconds.",
+          "Add the shrimp and sauté over medium-high heat until the shrimp are pink and cooked through, about 2-3 minutes.",
+          "Serve hot plain or over rice or pasta."
         ]
       }
     ]

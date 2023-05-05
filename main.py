@@ -21,22 +21,32 @@ print("Welcome to Whats for dinner!")
 
 # main loop
 def main():
+    # Main loop that continues until the user decides to exit
     while True:
         read_file = None
+        # Keep looping until a valid dish is selected or the user decides to exit
         while not read_file:
             dinner.display_menu()
+            # Get the user's choice and the corresponding dish name and data
             read_file = dinner.choose_protein()
+            # If the user decides to exit, break out of the main loop
             if read_file == "exit":
                 return
-        dish_name, dish_data = read_file  # Unpack dish name and data
+
+        # Unpack dish name and data from the read_file variable
+        dish_name, dish_data = read_file
         print(f"\nDish selected: {dish_name}\n")
 
         while True:
+            # Prompt the user for their desired action
             action = input("Enter 'R' to view recipe, 'I' to view ingredients, or 'G' to go back to menu: ").lower()
+            # Show the recipe if the user enters 'r'
             if action == 'r':
                 dinner.show_recipe(dish_data)
+            # Show the ingredients if the user enters 'i'
             elif action == 'i':
                 dinner.show_ingredients(dish_data)
+            # Break out of the inner loop and return to the menu if the user enters 'g'
             elif action == 'g':
                 break
             else:
