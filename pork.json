@@ -6,96 +6,107 @@
         "id": 1,
         "name": "Grilled Kielbasa",
         "ingredients": [
-          { "name": "whole chicken", "quantity": "1 (3-4 lbs)" },
-          { "name": "lemons", "quantity": "2" },
-          { "name": "garlic", "quantity": "6 cloves" },
-          { "name": "fresh rosemary", "quantity": "3 sprigs" },
-          { "name": "olive oil", "quantity": "2 tbsp" },
-          { "name": "salt", "quantity": "to taste" },
-          { "name": "pepper", "quantity": "to taste" }
+          { "name": "pork kielbasa sausage", "quantity": "14 oz" }
         ],
         "instructions": [
-          "Preheat oven to 425°F (220°C).",
-          "Rinse and pat dry the chicken.",
-          "Rub the chicken with olive oil, salt, and pepper.",
-          "Place half a lemon and three garlic cloves inside the chicken cavity.",
-          "Place chicken in a roasting pan.",
-          "Slice the remaining lemon and arrange around the chicken with the remaining garlic cloves and rosemary sprigs.",
-          "Roast for 1 hour and 30 minutes or until internal temperature reaches 165°F (74°C).",
-          "Allow chicken to rest for 10 minutes before carving.",
-          "Serve with pan juices."
+          "Prep: 5min | Cook: 10min | Total: 15min",
+          "Heat up the grill. If it's electric/gas, set it on medium/high.",
+          "(Optional step) Place kielbasa on the cutting board and slit the casing on both sides.",
+          "Grill kielbasa, turning halfway through, until lightly charred. This can take anything from 5 up to 10 minutes.",
+          "Serve with bread and a dip of your choice."
         ]
       },
       {
         "id": 2,
         "name": "Zuppa Toscana",
         "ingredients": [
-          { "name": "romaine lettuce", "quantity": "1 head" },
-          { "name": "croutons", "quantity": "1 cup" },
-          { "name": "parmesan cheese", "quantity": "1/2 cup" },
-          { "name": "caesar dressing", "quantity": "1/2 cup" },
-          { "name": "anchovy fillets (optional)", "quantity": "4-6" }
+          { "name": "spicy Italian ground sausage", "quantity": "1 lbs" },
+          { "name": "butter", "quantity": "4 tbsp" },
+          { "name": "white onion", "quantity": "1/2, diced" },
+          { "name": "garlic", "quantity": "1 tbsp, minced" },
+          { "name": "chicken broth", "quantity": "6 cups" },
+          { "name": "water", "quantity": "2 cups" },
+          { "name": "yellow potatoes", "quantity": "4, cut into 1-inch pieces" },
+          { "name": "salt", "quantity": "3 tsp" },
+          { "name": "black pepper", "quantity": "1 tsp" },
+          { "name": "heavy cream", "quantity": "2 cups" },
+          { "name": "chopped kale", "quantity": "4 cups" },
+          { "name": "grated parmesan cheese (optional)", "quantity": "1 cup" }
         ],
         "instructions": [
-          "Wash and dry lettuce, tear into bite-sized pieces.",
-          "In a large salad bowl, toss lettuce with caesar dressing.",
-          "Add croutons and parmesan cheese, toss to combine.",
-          "Top with anchovy fillets if desired.",
-          "Serve immediately."
+          "Prep: 10min | Cook: 30min | Total: 40min",
+          "In a large pot saute sausage 5-6 minutes until browned.",
+          "Use a slotted spoon to transfer sausage to a plate and set aside. ",
+          "In the same pot, add butter and saute onions over medium heat until translucent.",
+          "Add garlic and saute for another minute until fragrant.",
+          "Add chicken broth, water, potatoes, salt, and pepper and bring to a boil. Boil until potatoes are tender.",
+          "Stir in kale, and heavy cream. Add sausage. Taste and add salt and pepper if needed.",
+          "Serve garnished with grated parmesan cheese if desired."
         ]
       },
       {
         "id": 3,
         "name": "Tortellini Soup",
         "ingredients": [
-          { "name": "romaine lettuce", "quantity": "1 head" },
-          { "name": "croutons", "quantity": "1 cup" },
-          { "name": "parmesan cheese", "quantity": "1/2 cup" },
-          { "name": "caesar dressing", "quantity": "1/2 cup" },
-          { "name": "anchovy fillets (optional)", "quantity": "4-6" }
+          { "name": "olive oil", "quantity": "1 tbsp" },
+          { "name": "italian sausage", "quantity": "1 lbs, casing removed" },
+          { "name": "garlic", "quantity": "3 cloves, minced" },
+          { "name": "red onion", "quantity": "1 medium, diced" },
+          { "name": "italian seasoning", "quantity": "2 tsp" },
+          { "name": "salt", "quantity": "2 tsp" },
+          { "name": "black pepper", "quantity": "2 tsp" },
+          { "name": "all-purpose flour", "quantity": "2 tbsp" },
+          { "name": "chicken broth", "quantity": "4 cups" },
+          { "name": "tomato sauce", "quantity": "1 (8-ounce) can" },
+          { "name": "cheese tortellini", "quantity": "1 (9-ounce) package" },
+          { "name": "kale", "quantity": "1/2 bunch, stems removed" },
+          { "name": "heavy cream", "quantity": "1/2 cup" },
+          { "name": "fresh basil", "quantity": "3 tbsp, chopped" }
         ],
         "instructions": [
-          "Wash and dry lettuce, tear into bite-sized pieces.",
-          "In a large salad bowl, toss lettuce with caesar dressing.",
-          "Add croutons and parmesan cheese, toss to combine.",
-          "Top with anchovy fillets if desired.",
-          "Serve immediately."
-        ]
-      },
-      {
-        "id": 4,
-        "name": "Little ear pasta with Italian sausage",
-        "ingredients": [
-          { "name": "romaine lettuce", "quantity": "1 head" },
-          { "name": "croutons", "quantity": "1 cup" },
-          { "name": "parmesan cheese", "quantity": "1/2 cup" },
-          { "name": "caesar dressing", "quantity": "1/2 cup" },
-          { "name": "anchovy fillets (optional)", "quantity": "4-6" }
-        ],
-        "instructions": [
-          "Wash and dry lettuce, tear into bite-sized pieces.",
-          "In a large salad bowl, toss lettuce with caesar dressing.",
-          "Add croutons and parmesan cheese, toss to combine.",
-          "Top with anchovy fillets if desired.",
+          "Prep: 15min | Cook: 15min | Total: 30min.",
+          "Heat olive oil in a large stockpot or Dutch oven over medium heat.",
+          "Add Italian sausage and cook until browned, about 3-5 minutes,",
+          "making sure to crumble the sausage as it cooks; drain excess fat.",
+          "Stir in garlic, onion and Italian seasoning.",
+          "Cook, stirring frequently, until onions have become translucent, about 2-3 minutes; add salt and pepper.",
+          "Whisk in flour until lightly browned, about 1 minute.",
+          "Gradually whisk in chicken stock and tomato sauce.",
+          "Bring to a boil; reduce heat and simmer, stirring occasionally, until reduced and slightly thickened, about 10 minutes.",
+          "Stir in tortellini; cover and cook until tender, about 5-7 minutes.",
+          "Stir in kale until wilted, about 1-2 minutes.",
+          "Stir in heavy cream and basil until heated through, about 1 minute; season with salt and pepper, to taste.",
           "Serve immediately."
         ]
       },
       {
         "id": 5,
-        "name": "Pork chops",
+        "name": "Honey Garlic Pork chops",
         "ingredients": [
-          { "name": "romaine lettuce", "quantity": "1 head" },
-          { "name": "croutons", "quantity": "1 cup" },
-          { "name": "parmesan cheese", "quantity": "1/2 cup" },
-          { "name": "caesar dressing", "quantity": "1/2 cup" },
-          { "name": "anchovy fillets (optional)", "quantity": "4-6" }
+          { "name": "pork chops, bone in or out", "quantity": "4" },
+          { "name": "garlic powder", "quantity": "1 tsp" },
+          { "name": "salt", "quantity": "4 tsp" },
+          { "name": "black pepper", "quantity": "4 tsp" },
+          { "name": "olive oil", "quantity": "2 tbsp" },
+          { "name": "unsalted butter", "quantity": "1 tbsp" },
+          { "name": "garlic", "quantity": "6 cloves, minced" },
+          { "name": "honey", "quantity": "1/4 cup" },
+          { "name": "chicken broth", "quantity": "1/4 cup" },
+          { "name": "rice wine vinegar", "quantity": "2 tbsp" }
         ],
         "instructions": [
-          "Wash and dry lettuce, tear into bite-sized pieces.",
-          "In a large salad bowl, toss lettuce with caesar dressing.",
-          "Add croutons and parmesan cheese, toss to combine.",
-          "Top with anchovy fillets if desired.",
-          "Serve immediately."
+          "Prep: 10min | Cook: 12min | Total: 22min",
+          "Preheat oven broiler (or grill) on medium-high heat.",
+          "Season chops with salt, pepper and garlic powder just before cooking.",
+          "Heat oil in a pan or skillet over medium high heat until hot.",
+          "Sear chops on both sides until golden and cooked through (about 4-5 minutes each side).",
+          "Transfer to a plate; set aside.",
+          "Reduce heat to medium. Melt butter in the same pan, scraping up any browned bits from the bottom of the pan.",
+          "Sauté garlic until fragrant (about 30 seconds).",
+          "Add the honey, water and vinegar. Increase heat to medium-high and continue to cook until the sauce reduces",
+          "down and thickens slightly (about 3-4 minutes), while stirring occasionally.",
+          "Add pork back into the pan, baste generously with the sauce and broil/grill for 1-2 minutes.",
+          "Garnish with parsley and serve over vegetables, rice, pasta or with a salad."
         ]
       }
     ]
