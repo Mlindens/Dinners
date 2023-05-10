@@ -15,13 +15,14 @@
           { "name": "pepper", "quantity": "to taste" }
         ],
         "instructions": [
-          "Preheat oven to 425°F (220°C).",
+          "Prep: 15min | Cook: 1h 30min | Total: 1h 55min",
+          "Preheat oven to 425F (220C).",
           "Rinse and pat dry the chicken.",
           "Rub the chicken with olive oil, salt, and pepper.",
           "Place half a lemon and three garlic cloves inside the chicken cavity.",
           "Place chicken in a roasting pan.",
           "Slice the remaining lemon and arrange around the chicken with the remaining garlic cloves and rosemary sprigs.",
-          "Roast for 1 hour and 30 minutes or until internal temperature reaches 165°F (74°C).",
+          "Roast for 1 hour and 30 minutes or until internal temperature reaches 165F (74C).",
           "Allow chicken to rest for 10 minutes before carving.",
           "Serve with pan juices."
         ]
@@ -46,37 +47,63 @@
       },
       {
         "id": 3,
-        "name": "Fajitas",
+        "name": "Chicken Fajitas",
         "ingredients": [
-          { "name": "romaine lettuce", "quantity": "1 head" },
-          { "name": "croutons", "quantity": "1 cup" },
-          { "name": "parmesan cheese", "quantity": "1/2 cup" },
-          { "name": "caesar dressing", "quantity": "1/2 cup" },
-          { "name": "anchovy fillets (optional)", "quantity": "4-6" }
+          { "name": "boneless chicken breasts", "quantity": "3" },
+          { "name": "white onion", "quantity": "1 medium" },
+          { "name": "bell peppers", "quantity": "3" },
+          { "name": "olive oil", "quantity": "2 tbsp" },
+          { "name": "lime", "quantity": "1/2" },
+          { "name": "--- Fajita Seasoning ---", "quantity": "" },
+          { "name": "chili powder", "quantity": "1/2 tbsp" },
+          { "name": "ground cumin", "quantity": "1/2 tbsp" },
+          { "name": "garlic powder", "quantity": "1 tsp" },
+          { "name": "paprika", "quantity": "1/2 tsp" },
+          { "name": "oregano", "quantity": "1/2 tsp" },
+          { "name": "salt", "quantity": "1/2 tsp" },
+          { "name": "black pepper", "quantity": "1/4 tsp" }
         ],
         "instructions": [
-          "Wash and dry lettuce, tear into bite-sized pieces.",
-          "In a large salad bowl, toss lettuce with caesar dressing.",
-          "Add croutons and parmesan cheese, toss to combine.",
-          "Top with anchovy fillets if desired.",
-          "Serve immediately."
+          "Prep: 10min | Cook: 16min | Total: 26min",
+          "Add the fajita seasoning ingredients to a small mixing bowl and stir together.",
+          "Generously sprinkle the fajita seasoning on both sides of the chicken and use your fingers to press it into the chicken.",
+          "Heat the oil in a large skillet over medium heat. Sear the chicken breasts for about 7-8 minutes on each side.",
+          "While your chicken is cooking, cut the bell peppers and onion into thin slices.",
+          "Once the chicken has finished cooking, remove it to a plate and let it rest for a couple of minutes.",
+          "Add the bell peppers and onion to the same skillet over medium heat and saute for 4-5 minutes, stirring frequently.",
+          "When the bell peppers are just about done sauteing, slice the chicken breasts into strips.",
+          "Add the chicken back into the skillet, add a squeeze of fresh lime juice and stir everything together.",
+          "Serve immediately with tortillas and extra toppings such as sour cream, pico de gallo and guacamole."
         ]
       },
       {
         "id": 4,
         "name": "Pesto Chicken",
         "ingredients": [
-          { "name": "romaine lettuce", "quantity": "1 head" },
-          { "name": "croutons", "quantity": "1 cup" },
-          { "name": "parmesan cheese", "quantity": "1/2 cup" },
-          { "name": "caesar dressing", "quantity": "1/2 cup" },
-          { "name": "anchovy fillets (optional)", "quantity": "4-6" }
+          { "name": "boneless chicken breast", "quantity": "2" },
+          { "name": "salt", "quantity": "1/4 tsp" },
+          { "name": "black pepper", "quantity": "1/4 tsp" },
+          { "name": "olive oil", "quantity": "2 tbsp" },
+          { "name": "garlic", "quantity": "2 cloves" },
+          { "name": "grape tomatoes", "quantity": "1 pint" },
+          { "name": "heavy cream", "quantity": "1/2 cup" },
+          { "name": "pesto", "quantity": "1/4 cup" }
         ],
         "instructions": [
-          "Wash and dry lettuce, tear into bite-sized pieces.",
-          "In a large salad bowl, toss lettuce with caesar dressing.",
-          "Add croutons and parmesan cheese, toss to combine.",
-          "Top with anchovy fillets if desired.",
+          "Prep: 10min | Cook: 25min | Total: 35min",
+          "Fillet the chicken breasts into 2 thinner pieces.",
+          "Season the chicken with a pinch of salt and pepper on both sides.",
+          "Heat a large skillet over medium heat. Once hot, add 1 Tbsp oil and swirl to coat the surface.",
+          "Add the chicken to the skillet and cook on each side until golden brown and cooked through (about 7-10 minutes total).",
+          "Remove the chicken to a clean plate.",
+          "Turn the heat down to medium-low.",
+          "Add the remaining olive oil to the skillet along with the minced garlic and halved grape tomatoes.",
+          "Sauté for about 5 minutes, or until the tomatoes start to soften and lose their shape.",
+          "Add the heavy cream and pesto to the skillet with the tomatoes and stir to combine.",
+          "Allow the sauce to come up to a simmer.",
+          "Taste the sauce and adjust the salt or pepper to your liking.",
+          "Add the chicken back to the skillet with the tomatoes and sauce, turning to coat the chicken.",
+          "Allow the chicken to simmer in the sauce for just a few minutes more to heat through.",
           "Serve immediately."
         ]
       },
@@ -84,54 +111,95 @@
         "id": 5,
         "name": "Chicken Alfredo",
         "ingredients": [
-          { "name": "romaine lettuce", "quantity": "1 head" },
-          { "name": "croutons", "quantity": "1 cup" },
-          { "name": "parmesan cheese", "quantity": "1/2 cup" },
-          { "name": "caesar dressing", "quantity": "1/2 cup" },
-          { "name": "anchovy fillets (optional)", "quantity": "4-6" }
+          { "name": "boneless chicken breast", "quantity": "2" },
+          { "name": "olive oil", "quantity": "2 tbsp" },
+          { "name": "salt", "quantity": "1/2 tsp" },
+          { "name": "black pepper", "quantity": "1/2 tsp" },
+          { "name": "whole milk", "quantity": "1 1/2 cup" },
+          { "name": "chicken broth", "quantity": "1 1/2 cup" },
+          { "name": "garlic", "quantity": "2 cloves" },
+          { "name": "fettuccine", "quantity": "8 oz" },
+          { "name": "heavy cream", "quantity": "1/2 cup" },
+          { "name": "parmesan cheese", "quantity": "1 cup" },
+          { "name": "chopped parsley", "quantity": "for garnish" }
         ],
         "instructions": [
-          "Wash and dry lettuce, tear into bite-sized pieces.",
-          "In a large salad bowl, toss lettuce with caesar dressing.",
-          "Add croutons and parmesan cheese, toss to combine.",
-          "Top with anchovy fillets if desired.",
-          "Serve immediately."
+          "Prep: 10min | Cook: 20min | Total: 30min",
+          "In a large skillet over medium-high heat, heat oil. Add chicken and season with salt and pepper.",
+          "Cook until golden and cooked through, 8 minutes per side. Let rest 10 minutes, then slice.",
+          "Add milk, broth, and garlic to skillet. Season with salt and pepper and bring to a simmer.",
+          "Add fettuccine, stirring frequently for about 3 minutes. Let cook until al dente, 8 minutes more.",
+          "Stir in heavy cream and Parmesan until combined. Simmer until sauce thickens.",
+          "Remove from heat and stir in sliced chicken.",
+          "Garnish with parsley."
         ]
       },
       {
         "id": 6,
         "name": "Chicken Stir Fry",
         "ingredients": [
-          { "name": "romaine lettuce", "quantity": "1 head" },
-          { "name": "croutons", "quantity": "1 cup" },
-          { "name": "parmesan cheese", "quantity": "1/2 cup" },
-          { "name": "caesar dressing", "quantity": "1/2 cup" },
-          { "name": "anchovy fillets (optional)", "quantity": "4-6" }
+          { "name": "boneless chicken breast", "quantity": "1 lbs" },
+          { "name": "salt", "quantity": "to taste" },
+          { "name": "black pepper", "quantity": "to taste" },
+          { "name": "olive oil", "quantity": "2 tbsp" },
+          { "name": "broccoli florets", "quantity": "2 cups" },
+          { "name": "yellow bell pepper", "quantity": "1/2" },
+          { "name": "red bell pepper", "quantity": "1/2" },
+          { "name": "baby carrots", "quantity": "1/2 cup" },
+          { "name": "minced ginger", "quantity": "2 tsp" },
+          { "name": "garlic", "quantity": "2 cloves" },
+          { "name": "--- Stir fry sauce ---", "quantity": "" },
+          { "name": "corn starch", "quantity": "1 tbsp" },
+          { "name": "water", "quantity": "2 tbsp" },
+          { "name": "chicken broth", "quantity": "1/4 cup" },
+          { "name": "soy sauce", "quantity": "3 tbsp" },
+          { "name": "honey", "quantity": "1/4 cup" },
+          { "name": "toasted sesame oil", "quantity": "1 tbsp" },
+          { "name": "crushed red pepper flakes", "quantity": "1/2 tsp" }
         ],
         "instructions": [
-          "Wash and dry lettuce, tear into bite-sized pieces.",
-          "In a large salad bowl, toss lettuce with caesar dressing.",
-          "Add croutons and parmesan cheese, toss to combine.",
-          "Top with anchovy fillets if desired.",
-          "Serve immediately."
+          "Prep: 8min | Cook: 10min | Total: 18min",
+          "In a medium size bowl, whisk together corn starch and water.",
+          "Add chicken broth, soy sauce, honey, and toasted sesame oil, red pepper flakes and whisk to combine. Set aside.",
+          "Add 1 tablespoon of olive oil to a large skillet or wok and heat over medium high heat.",
+          "Add chicken (in batches if necessary) and season with salt and pepper.",
+          "Cook for 3 to 5 minutes or until cooked through. Remove from skillet.",
+          "Reduce heat to medium and add remaining tablespoon of oil to the skillet.",
+          "Add broccoli, bell pepper, and carrots and cook, stirring occasionally, just until crisp tender.",
+          "Add ginger and garlic and cook for an additional minute.",
+          "Add chicken back into the skillet and stir to combine.",
+          "Whisk stir fry sauce and pour over chicken and vegetables and stir gently to combine.",
+          "Bring to a boil, stirring occasionally, and let boil for 1 minute.",
+          "Serve with rice and/or chow mein if desired."
         ]
       },
       {
         "id": 7,
         "name": "Mediterranean Chicken",
         "ingredients": [
-          { "name": "romaine lettuce", "quantity": "1 head" },
-          { "name": "croutons", "quantity": "1 cup" },
-          { "name": "parmesan cheese", "quantity": "1/2 cup" },
-          { "name": "caesar dressing", "quantity": "1/2 cup" },
-          { "name": "anchovy fillets (optional)", "quantity": "4-6" }
+          { "name": "boneless chicken breast", "quantity": "1.5 lbs" },
+          { "name": "flour", "quantity": "3 tbsp" },
+          { "name": "salt", "quantity": "1/2 tsp" },
+          { "name": "black pepper", "quantity": "1/4 tsp" },
+          { "name": "olive oil", "quantity": "2 tbsp" },
+          { "name": "roasted artichoke hearts", "quantity": "8 oz" },
+          { "name": "sun-dried tomatoes", "quantity": "3 oz" },
+          { "name": "capers", "quantity": "3 tbsp" },
+          { "name": "lemon juice", "quantity": "2 tbsp" },
+          { "name": "almond milk", "quantity": "1 cup" },
+          { "name": "chopped parsley", "quantity": "1 tbsp" }
         ],
         "instructions": [
-          "Wash and dry lettuce, tear into bite-sized pieces.",
-          "In a large salad bowl, toss lettuce with caesar dressing.",
-          "Add croutons and parmesan cheese, toss to combine.",
-          "Top with anchovy fillets if desired.",
-          "Serve immediately."
+          "Prep: 2min | Cook: 25min | Total: 27min",
+          "In a medium bowl, mix the 2 tablespoon of flour with salt and pepper. Lightly coat each piece of chicken with the seasoned flour.",
+          "Heat 2 tablespoons of olive oil in a large skillet over medium heat.",
+          "Add the chicken and cook for about 10-12 minutes per side, or until fully cooked through.",
+          "If needed, cook it in batches to avoid overcrowding the pan. Set aside on a plate and cover to keep warm.",
+          "Meanwhile, in a small bowl whisk the other 1 tablespoon of flour with the almond milk until no visible lumps.",
+          "To the same preheated skillet, add the artichokes together with the sun-dried tomatoes and capers.",
+          "Saute for about 2 minutes, then add the milk mixture to the pan and the lemon juice; whisk well to combine.",
+          "Once the sauce starts to thicken, return the chicken to the pan. Let it simmer for a couple of minutes, until hot.",
+          "Serve warm garnished with fresh parsley."
         ]
       }
     ]
